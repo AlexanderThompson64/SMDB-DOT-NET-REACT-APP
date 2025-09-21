@@ -17,7 +17,7 @@ const Navbar = () => {
                         SMDB React App
                     </a>
                     <span className="navbar-brand fw-bold">
-                        Powered by C# .NET9
+                        Powered by .NET
                     </span>
                 </div>
             </nav>
