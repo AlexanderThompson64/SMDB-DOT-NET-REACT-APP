@@ -1,0 +1,1 @@
+C:\Users\at100600\Documents\SMDBReactAppNetCoreMVC\smdbreactappnetcoremvc.client\obj\Debug\smdbreactappnetcoremvc.client.esproj.CoreCompileInputs.cache

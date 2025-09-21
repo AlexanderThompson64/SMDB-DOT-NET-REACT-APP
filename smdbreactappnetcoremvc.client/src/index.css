@@ -1,0 +1,11 @@
+.btn-smdb {
+    background-color: white;
+    color: black;
+    border: 3px solid #EB5D1F;
+}
+
+.btn-smdb:hover {
+    background-color: #EB5D1F;
+    color: white;
+    
+}

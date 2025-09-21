@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtLoU5RZeUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\at100600\\Documents\\SMDBReactAppNetCoreMVC\\SMDBReactAppNetCoreMVC.Server\\SMDBReactAppNetCoreMVC.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\at100600\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\at100600\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.9\\microsoft.aspnetcore.spaproxy.9.0.9.nupkg.sha512",
+    "C:\\Users\\at100600\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

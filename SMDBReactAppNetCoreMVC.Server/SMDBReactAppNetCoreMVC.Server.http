@@ -1,0 +1,6 @@
+@SMDBReactAppNetCoreMVC.Server_HostAddress = http://localhost:5191
+
+GET {{SMDBReactAppNetCoreMVC.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

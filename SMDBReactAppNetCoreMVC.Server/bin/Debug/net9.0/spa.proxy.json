@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:54574",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\at100600\\Documents\\SMDBReactAppNetCoreMVC\\SMDBReactAppNetCoreMVC.Server\\..\\smdbreactappnetcoremvc.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
